@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/sharp-api/sharp-api.r-universe.dev
 	branch = HEAD
+[submodule "sharpapi"]
+	path = sharpapi
+	url = https://github.com/Sharp-API/SharpAPI-R
