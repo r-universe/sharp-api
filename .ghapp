@@ -1,0 +1,10 @@
+{
+  "id": 164378217,
+  "created_at": "2026-09-24T10:40:20.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["sharp-api.r-universe.dev", "SharpAPI-R"]
+}
