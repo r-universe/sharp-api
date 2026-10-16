@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["sharp-api.r-universe.dev", "SharpAPI-R"]
+  "repositories": ["SharpAPI-R", "sharp-api.r-universe.dev"]
 }
